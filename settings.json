@@ -1,7 +1,19 @@
 {
   "-1004428849486": {
     "enabled": true,
-    "whitelist": []
+    "whitelist": [],
+    "toggle_log": [
+      {
+        "actor": "FISSION.era",
+        "new_value": false,
+        "timestamp": "2026-09-06 14:27:44"
+      },
+      {
+        "actor": "FISSION.era",
+        "new_value": true,
+        "timestamp": "2026-09-06 14:28:07"
+      }
+    ]
   },
   "-1003926487273": {
     "enabled": true,
